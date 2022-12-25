@@ -1,5 +1,5 @@
 # Music-genre-classification-
-This project is a part of the [SHAI](https://shaiforai.com/) at [Amman, Jordan](https://goo.gl/maps/hSGhVMzNeCMcjyYG9).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is a part of the [SHAI](https://shaiforai.com/) machien learning internship at [Amman, Jordan](https://goo.gl/maps/hSGhVMzNeCMcjyYG9).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
