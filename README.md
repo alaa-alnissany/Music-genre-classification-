@@ -1,45 +1,33 @@
 # Music-genre-classification-
-This project is a part of the [SHAI](https://shaiforai.com/) machien learning internship at [Amman, Jordan](https://goo.gl/maps/hSGhVMzNeCMcjyYG9).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is a part of the [SHAI](https://shaiforai.com/) machien learning internship at [Amman, Jordan](https://goo.gl/maps/hSGhVMzNeCMcjyYG9).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
-## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+## Project Introduction
+In this project we will try to figure the genre of music by a specific list of features which presented by [Music genre classification dataset](https://www.kaggle.com/competitions/shai-training-level-1-b/data), it's a multiclass classification problem.
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+* Saba Salah Master's in Artificial Intelligence and Robotics at Islamic Azad University.
+* Asmaa laila Telecommunications Engineer graduated from Damascus University.
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
+* Descriptive Statistics
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Features Importance
+* Outliers Handling
+* Machine Learning
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Pandas, Numpy, seaborn, sklearn imblearn
+
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
@@ -63,14 +51,14 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
+**Team Leads (Contacts) : [Alaa Alnissany](https://github.com/[github handle])(@slackHandle)**
 
 #### Other Members:
 
 |Name     |  Slack Handle   | 
 |---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+|[Saba Salah](https://github.com/sabasalah)| @sabasalah        |
+|[Asmaa Laila](https://github.com/asmaalaila/) |     @asmaalaila    |
 
 ## Contact
 * If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
