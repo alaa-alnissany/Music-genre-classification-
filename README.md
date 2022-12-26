@@ -51,7 +51,7 @@ In this project we will try to figure the genre of music by a specific list of f
 
 ## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Alaa Alnissany](https://github.com/[github handle])(@slackHandle)**
+**Team Leads (Contacts) : [Alaa Alnissany](https://github.com/alaa-alnissany)(@alaa-alnissany)**
 
 #### Other Members:
 
