@@ -12,14 +12,35 @@ In this project we will try to figure the genre of music by a specific list of f
 
 ### Methods Used
 * Descriptive Statistics
-* Data Visualization
-* Features Importance
-* Outliers Handling
-* Machine Learning
+* Data Visualization:
+   * Box plots
+   * Scatter plots
+* Features Importance:
+   * Chi-2 test
+   * Mutual information theory
+   * Based on models' features importance
+   * Linear correlation  
+* Outliers Handling:
+   * Quartile-transform
+* balancing data:
+   * Data augmentation (upsampling) using Synthetic Minority Oversampling Technique **SMOTE** method
+   * Data upsampling and downsampling using **SMOTE-Tomek** Links method
+* Machine Learning:
+   * LGBM
+   * XGB
+   * SVM
+   * Random Forest
+   * Extra Trees
+   * Cat-Boost
 
 ### Technologies
 * Python
-* Pandas, Numpy, seaborn, scikit learn, imblearn
+* Google colaboratory
+* Pandas
+* Numpy
+* Seaborn
+* Scikit learn
+* Imblearn
 * Catboost
 
 ## Project Description
