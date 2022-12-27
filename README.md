@@ -1,12 +1,12 @@
 # Music genre classification
 This project is a part of the [SHAI](https://shaiforai.com/) machien learning internship at [Amman, Jordan](https://goo.gl/maps/hSGhVMzNeCMcjyYG9).
 
-![music](https://github.com/alaa-alnissany/Music-genre-classification-/19438c50aea5bd8a6f452446b0ea4090-563x368.jpg?raw=true)
-
 #### Status: [Completed]
 
 ## Introduction
 In this project we will try to figure the genre of music using Machein learning models by a specific list of features which presented by [Music genre classification dataset](https://www.kaggle.com/competitions/shai-training-level-1-b/data), it's a multiclass classification problem.
+
+![Music](https://github.com/alaa-alnissany/Music-genre-classification-/19438c50aea5bd8a6f452446b0ea4090-563x368.jpg?raw=true)
 
 ## Team Members
 
