@@ -40,6 +40,7 @@ in this project we deal with so many features, let's take a breif look on them:
 * **tempo**: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 * duration in milliseconds :Time of the song
 * **time_signature** : a notational convention used in Western musical notation to specify how many beats (pulses) are contained in each measure (bar), and which note value is equivalent to a beat.
+
 where the target is:
 * **Class**: Genre of the track
 
