@@ -1,4 +1,4 @@
-# Music-genre-classification-
+# Music genre classification
 This project is a part of the [SHAI](https://shaiforai.com/) machien learning internship at [Amman, Jordan](https://goo.gl/maps/hSGhVMzNeCMcjyYG9).
 
 #### Status: [Completed]
@@ -8,7 +8,7 @@ In this project we will try to figure the genre of music by a specific list of f
 
 ## Team Members
 
-**Team Leads : [Alaa Alnissany](https://github.com/alaa-alnissany)(@alaa-alnissany)**
+**Team Leader : [Alaa Alnissany](https://github.com/alaa-alnissany) Electronic-Systems Engineer from Higher Institute for Applied Sciences and Technology**
 
 #### Other Members:
 
@@ -72,21 +72,3 @@ in this project we deal with so many features, let's take a brief look on them:
 
 Where the target is:
 * **Class**: Genre of the track
-
-
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-
