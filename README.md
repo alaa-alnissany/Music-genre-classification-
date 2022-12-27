@@ -1,6 +1,8 @@
 # Music genre classification
 This project is a part of the [SHAI](https://shaiforai.com/) machien learning internship at [Amman, Jordan](https://goo.gl/maps/hSGhVMzNeCMcjyYG9).
 
+![music](https://github.com/alaa-alnissany/Music-genre-classification-/19438c50aea5bd8a6f452446b0ea4090-563x368.jpg?raw=true)
+
 #### Status: [Completed]
 
 ## Introduction
