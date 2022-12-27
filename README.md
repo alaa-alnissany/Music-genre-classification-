@@ -6,9 +6,16 @@ This project is a part of the [SHAI](https://shaiforai.com/) machien learning in
 ## Introduction
 In this project we will try to figure the genre of music by a specific list of features which presented by [Music genre classification dataset](https://www.kaggle.com/competitions/shai-training-level-1-b/data), it's a multiclass classification problem.
 
-### Partners
-* Saba Salah Master's in Artificial Intelligence and Robotics at Islamic Azad University.
-* Asmaa laila Telecommunications Engineer graduated from Damascus University.
+## Team Members
+
+**Team Leads : [Alaa Alnissany](https://github.com/alaa-alnissany)(@alaa-alnissany)**
+
+#### Other Members:
+
+|Name     |  position   | 
+|---------|-----------------|
+|[Saba Salah](https://github.com/sabasalah)| Master's in Artificial Intelligence and Robotics at Islamic Azad University        |
+|[Asmaa Laila](https://github.com/asmaalaila/) |     Telecommunications Engineer graduated from Damascus University    |
 
 ### Methods Used
 * Descriptive Statistics
@@ -41,10 +48,11 @@ In this project we will try to figure the genre of music by a specific list of f
 * Seaborn
 * Scikit learn
 * Imblearn
+* Lazy predict
 * Catboost
 
 ## Project Description
-in this project we deal with so many features, let's take a breif look on them:
+in this project we deal with so many features, let's take a brief look on them:
 * **artist name**: Name of the Artist.
 * **track name**: Name of the Track.
 * **popularity**: The higher the value the more popular the song is.
@@ -62,12 +70,10 @@ in this project we deal with so many features, let's take a breif look on them:
 * duration in milliseconds :Time of the song
 * **time_signature** : a notational convention used in Western musical notation to specify how many beats (pulses) are contained in each measure (bar), and which note value is equivalent to a beat.
 
-where the target is:
+Where the target is:
 * **Class**: Genre of the track
 
-## Needs of this project
-- data processing/cleaning
-- statistical modeling
+
 
 ## Getting Started
 
@@ -83,24 +89,4 @@ where the target is:
 
 5. Follow setup [instructions](Link to file)
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
 
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Alaa Alnissany](https://github.com/alaa-alnissany)(@alaa-alnissany)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Saba Salah](https://github.com/sabasalah)| @sabasalah        |
-|[Asmaa Laila](https://github.com/asmaalaila/) |     @asmaalaila    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
