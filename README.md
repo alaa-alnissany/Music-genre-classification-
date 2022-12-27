@@ -4,7 +4,7 @@ This project is a part of the [SHAI](https://shaiforai.com/) machien learning in
 #### Status: [Completed]
 
 ## Introduction
-In this project we will try to figure the genre of music by a specific list of features which presented by [Music genre classification dataset](https://www.kaggle.com/competitions/shai-training-level-1-b/data), it's a multiclass classification problem.
+In this project we will try to figure the genre of music using Machein learning models by a specific list of features which presented by [Music genre classification dataset](https://www.kaggle.com/competitions/shai-training-level-1-b/data), it's a multiclass classification problem.
 
 ## Team Members
 
