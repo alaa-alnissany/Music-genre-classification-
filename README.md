@@ -52,7 +52,7 @@ In this project we will try to figure the genre of music by a specific list of f
 * Catboost
 
 ## Project Description
-in this project we deal with so many features, let's take a brief look on them:
+In this project we deal with so many features, let's take a brief look on them:
 * **artist name**: Name of the Artist.
 * **track name**: Name of the Track.
 * **popularity**: The higher the value the more popular the song is.
