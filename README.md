@@ -31,9 +31,9 @@ In this project we will try to figure the genre of music using Machein learning 
    * Linear correlation  
 * Outliers Handling:
    * Quartile-transform
-* balancing data:
-   * Data augmentation (upsampling) using Synthetic Minority Oversampling Technique **SMOTE** method
-   * Data upsampling and downsampling using **SMOTE-Tomek** Links method
+*  balancing data (Data augmentation) using:
+   * Synthetic Minority Oversampling Technique SMOTE method.
+   * SMOTE-Tomek Links method.
 * Machine Learning:
    * LGBM
    * XGB
