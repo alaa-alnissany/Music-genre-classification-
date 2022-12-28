@@ -19,7 +19,7 @@ In this project we will try to figure the genre of music using Machein learning 
 |[Saba Salah](https://github.com/sabasalah)| Master's in Artificial Intelligence and Robotics at Islamic Azad University        |
 |[Asmaa Laila](https://github.com/asmaalaila/) |     Telecommunications Engineer graduated from Damascus University    |
 
-### Methods Used
+### Used Methods
 * Descriptive Statistics
 * Data Visualization:
    * Box plots
